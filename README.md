@@ -36,4 +36,13 @@ read their documentation and summarized into simpler steps. All credit goes to t
 authors/developers of <a href="https://www.saha.ac.in/theory/palashbaran.pal/bangtex/bangtex.html">Bangtex</a> 
 and <a href="http://dasgupab.faculty.udmercy.edu/uni2bangtex/index.html">uni2bangtex</a>.</p>
 
- 
+
+
+ /// by me
+
+ If You Are Already in Downloads Directory:
+
+cd ~/Downloads
+perl uni2bangtex.perl smpldoc.txt > smpldoc.tex
+
+This will generate smpldoc.tex in the same Downloads folder.
